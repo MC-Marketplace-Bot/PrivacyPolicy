@@ -9,13 +9,11 @@ Welcome to the Privacy Policy for the "Marketplace" Discord bot ("the Bot"). Thi
 2.1. User-Provided Information: To use certain features of the Bot, such as linking your Minecraft Bedrock Marketplace account, you may be required to provide the following information:
 
 Minecraft Bedrock Marketplace account credentials (username, email, etc.).
+
 2.2. Automatically Collected Information: We may collect certain information automatically when you use the Bot, including:
 
-Discord user ID
-Xbox gamertag
-Xbox account restrictions
-User tokens
-Bot usage data such as:
+Discord user ID, Xbox gamertag, Xbox account restrictions, User tokens and Bot usage data such as:
+
 Date and location of the command you use to help with debugging bugs.
 
 ## 3. How We Use Your Information
